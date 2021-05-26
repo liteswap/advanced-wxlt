@@ -1,4 +1,4 @@
-# advanced-weth
+# advanced-wxlt
 
 A smart contract that adds functionality to the
 [Wrapped Ether](https://github.com/gnosis/canonical-weth) 
